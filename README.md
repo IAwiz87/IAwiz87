@@ -1,3 +1,4 @@
+<img src="./apl_banner.png" alt="Andrew Largent banner" width="100%" />
 <h1 align="center">Andrew P. Largent</h1>
 <h3 align="center">Security Engineer · GRC Architect · Cryptographic Assurance Specialist</h3>
 
