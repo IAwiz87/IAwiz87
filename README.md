@@ -1,6 +1,4 @@
 <img src="./apl_banner.png" alt="Andrew Largent banner" width="100%" />
-<h1 align="center">Andrew P. Largent</h1>
-<h3 align="center">Security Engineer · GRC Architect · Cryptographic Assurance Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/IAwiz87"><img src="https://img.shields.io/badge/GitHub-IAwiz87-181717?style=flat-square&logo=github" alt="GitHub"/></a>
