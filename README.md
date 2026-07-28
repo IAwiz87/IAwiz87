@@ -4,7 +4,7 @@
   <a href="https://github.com/IAwiz87"><img src="https://img.shields.io/badge/GitHub-IAwiz87-181717?style=flat-square&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/alargent87"><img src="https://img.shields.io/badge/LinkedIn-alargent87-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Location-Johnstown%2C%20PA-blue?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/✅ Complete-CGE--P-orange?style=flat-square" alt="CGE-P"/> 
+  <img src="https://img.shields.io/badge/✅ Certified-CGE--P-orange?style=flat-square" alt="CGE-P"/> 
   <img src="https://img.shields.io/badge/Focus-FIPS%20140--3%20%7C%20PQC%20%7C%20GRC-success?style=flat-square" alt="Focus"/>
 </p>
 
