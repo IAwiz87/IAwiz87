@@ -128,7 +128,7 @@ No server, no install — open in any browser. Enables rapid offline triage of K
 
 | Credential | Issuer | Status |
 |---|---|---|
-| CGE-P — Certified GRC Engineer Practitioner | GRC Certification Body | ✅ Complete |
+| CGE-P — Certified GRC Engineer Practitioner | GRC Engineering Club Academy | ✅ Complete |
 | Foundations of AI Security | AttackIQ | ✅ Complete |
 | ICS Cybersecurity Evaluation (401-Virtual) | DHS / CISA Track | ✅ Complete |
 
