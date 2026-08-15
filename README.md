@@ -199,12 +199,12 @@ My professional development focuses on GRC engineering, federal and regulated-en
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IAwiz87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=IAwiz87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub statistics for IAwiz87"
     height="180"
   />
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IAwiz87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=IAwiz87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
     alt="Top languages used in IAwiz87 public repositories"
     height="180"
   />
@@ -228,3 +228,4 @@ Open to roles in **federal cybersecurity**, **GRC engineering**, **cryptographic
 ---
 
 <p align="center"><sub>Built with precision. Secured by design.</sub></p>
+
