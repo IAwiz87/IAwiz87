@@ -126,11 +126,51 @@ No server, no install — open in any browser. Enables rapid offline triage of K
 
 ## 📜 Certifications & Training
 
-| Credential | Issuer | Status |
-|---|---|---|
-| CGE-P — Certified GRC Engineer Practitioner | GRC Engineering Club Academy | ✅ Complete |
-| Foundations of AI Security | AttackIQ | ✅ Complete |
-| ICS Cybersecurity Evaluation (401-Virtual) | DHS / CISA Track | ✅ Complete |
+My professional development focuses on GRC engineering, federal and regulated-environment compliance, industrial control system (ICS/OT) security, security operations, cryptographic assurance, and AI security.
+
+### Professional Certifications
+
+| Credential | Issuer | Issued | Credential / Verification |
+|---|---|---:|---|
+| **Certified GRC Engineer — Practitioner (CGE-P)** | GRC Engineering Club | Jul 2026 | [Verify credential](https://cert.grcengclub.com/verify/cgep-1de516e6-e21a-45e0-96ad-9666a3054afc) · ID: `cgep-1de516e6-e21a-45e0-96ad-9666a3054afc` · Expires Jul 2027 |
+| **ICS Cybersecurity Evaluation (401-Virtual)** | U.S. Department of Homeland Security | May 2026 | Training in analyzing, evaluating, and documenting the cybersecurity posture of ICS environments, including threat and weakness analysis, findings mapping, and mitigation documentation |
+| **Foundations of AI Security** | AttackIQ | Apr 2026 | [View credential](https://www.credly.com/badges/99b1c71e-8deb-4ebf-862a-8f0cc5e29432/linked_in_profile) |
+| **GRC Analyst** | Cybrary | Apr 2026 | [View credential](https://www.credly.com/badges/3414089a-89e9-4b46-b4d6-d60f0e2a429e/linked_in_profile) |
+| **Foundations of Governance, Risk, and Compliance** | ISC2 | Mar 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/YHHUJAWQ7IJE) · ID: `YHHUJAWQ7IJE` |
+| **DoD Mandatory Controlled Unclassified Information (CUI) Training** | Defense Counterintelligence and Security Agency (DCSA) | Mar 2026 | ID: `u8ZX5PjodF` |
+| **CompTIA Cybersecurity Analyst+ (CySA+): Encryption & Hashing** | Skillsoft | Sep 2024 | [View credential](https://skillsoft.digitalbadges.skillsoft.com/a33cf845-3f59-4889-950e-67f96949ff09) · ID: `117165659` |
+| **IBM Cybersecurity Analyst Professional Certificate** | IBM / Coursera | Jun 2021 | [View credential](https://www.credly.com/badges/6c68e7c1-b4e7-4cb1-8ea8-9509760e5d3f?source=linked_in_profile) |
+
+### Credential Highlights
+
+- **CGE-P:** Completed the practitioner examination and a capstone repository demonstrating production-grade GRC engineering across infrastructure as code, policy-as-code, evidence automation, and control-to-code documentation.
+- **ICS/OT security:** Trained to assess cybersecurity posture in industrial control system environments; document vulnerabilities, threats, findings, and recommended mitigations.
+- **AI security and GRC:** Completed foundational training in AI security, AI risk management, governance, risk, compliance, and IT asset management.
+- **Federal data protection:** Completed DoD CUI training covering CUI identification, access, marking, safeguarding, decontrolling, destruction, and security-incident reporting.
+- **Cryptography and security operations:** Developed applied knowledge in encryption, hashing, penetration testing, threat hunting, incident response, DFIR, network security, and cyber threat intelligence.
+
+### IBM Cybersecurity Analyst Program Coursework
+
+| Course | Issuer | Issued | Credential ID |
+|---|---|---:|---|
+| [Introduction to Cybersecurity Tools & Cyberattacks](https://www.coursera.org/account/accomplishments/records/JTQ6Y6F2NW2K) | IBM | Apr 2021 | `JTQ6Y6F2NW2K` |
+| [Operating Systems: Overview, Administration, and Security](https://www.coursera.org/account/accomplishments/records/3S2T4ULRU42Z) | IBM | Apr 2021 | `3S2T4ULRU42Z` |
+| [Cybersecurity Compliance Framework, Standards & Regulations](https://www.coursera.org/account/accomplishments/records/66BTJABAUUWU) | IBM | Apr 2021 | `66BTJABAUUWU` |
+| [Computer Networks and Network Security](https://www.coursera.org/account/accomplishments/records/KCYHXTNPBJTZ) | IBM | May 2021 | `KCYHXTNPBJTZ` |
+| [Penetration Testing, Threat Hunting, and Cryptography](https://www.coursera.org/account/accomplishments/records/2HJHKT74G8EJ) | IBM | May 2021 | `2HJHKT74G8EJ` |
+| [Incident Response and Digital Forensics](https://www.coursera.org/account/accomplishments/records/2Z54QRKSU62L) | IBM | Jun 2021 | `2Z54QRKSU62L` |
+| [Cybersecurity Case Studies and Capstone Project](https://www.coursera.org/account/accomplishments/records/P9KVDPC6FQUN) | IBM | Jun 2021 | `P9KVDPC6FQUN` |
+| [Cybersecurity Assessment: CompTIA Security+ & CySA+](https://www.coursera.org/account/accomplishments/records/L5Y6BEC3SVJS) | IBM | Jun 2021 | `L5Y6BEC3SVJS` |
+
+### Additional Cybersecurity Training
+
+| Training | Provider | Issued | Verification |
+|---|---|---:|---|
+| Network Security & Database Vulnerabilities | Coursera | Jun 2021 | [View credential](https://www.credly.com/badges/bdee25c1-e4eb-4ad1-b800-bf9c8540eea7?source=linked_in_profile) |
+| Cybersecurity Breach Case Studies | Coursera | Jun 2021 | [View credential](https://www.credly.com/badges/2d5dcdff-a3eb-4476-aac7-f1edee0b9154?source=linked_in_profile) |
+| Penetration Testing, Incident Response and Forensics | Coursera | Jun 2021 | [View credential](https://www.credly.com/badges/a6c065ec-0b2c-4257-897e-a8c28813fa7f?source=linked_in_profile) |
+| Cyber Threat Intelligence | Coursera | Jun 2021 | [View credential](https://www.credly.com/badges/60dde8ad-5089-4dd7-991b-210646aaf0e5?source=linked_in_profile) |
+| Cybersecurity Compliance Framework & System Administration | Coursera | Apr 2021 | [View credential](https://www.credly.com/badges/4e3caeba-4957-4410-883a-72116dac2cec?source=linked_in_profile) |
 
 ---
 
