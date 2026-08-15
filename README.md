@@ -195,17 +195,24 @@ My professional development focuses on GRC engineering, federal and regulated-en
   </i>
 </p>
 
+## GitHub Statistics
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=IAwiz87&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true"
-    alt="IAwiz87's GitHub statistics"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAwiz87&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8"
-    alt="Top languages used by IAwiz87"
-    height="170"
-  />
+  <a href="https://github.com/IAwiz87">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=IAwiz87&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=1800"
+      alt="GitHub statistics for IAwiz87"
+      height="180"
+    />
+  </a>
+
+  <a href="https://github.com/IAwiz87">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=IAwiz87&layout=compact&hide_border=true&theme=transparent&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=1800"
+      alt="Top languages used in IAwiz87 public repositories"
+      height="180"
+    />
+  </a>
 </p>
 
 <p align="center">
