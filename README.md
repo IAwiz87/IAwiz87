@@ -176,26 +176,23 @@ My professional development focuses on GRC engineering, federal and regulated-en
 
 ## 📈 GitHub Stats
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=IAwiz87&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true"
-    alt="IAwiz87's GitHub statistics"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAwiz87&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8"
-    alt="Top languages used by IAwiz87"
-    height="170"
-  />
+  <a href="https://github.com/IAwiz87">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=IAwiz87&theme=github-compact&hide_border=true&area=true"
+      alt="IAwiz87 GitHub contribution activity graph"
+      width="100%"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=IAwiz87&theme=github-dark-blue&hide_border=true"
-    alt="IAwiz87's GitHub contribution streak"
-  />
+  <i>
+    Building practical GRC, compliance automation, cryptographic assurance,
+    and cybersecurity engineering projects.
+  </i>
 </p>
 
 ---
