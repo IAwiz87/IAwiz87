@@ -114,6 +114,16 @@ No server, no install — open in any browser. Enables rapid offline triage of K
 
 ---
 
+
+### 🟣 [SignalBox](https://github.com/IAwiz87/SignalBox) · *PWA · JavaScript*
+> 80% Signal. 20% Noise. 100% Focus. Lightweight productivity app based on Steve Jobs' signal-to-noise ratio.
+
+A PWA built with zero framework dependencies (Vanilla JS + Web Components) featuring time-block calendar dashboard, rules engine + on-device AI classification (ONNX Runtime Web), Google Calendar/Gmail + Microsoft 365 integration, and cloud sync via Google Drive/OneDrive.
+
+`JavaScript` · `Web Components` · `PWA` · `ONNX Runtime` · `Google API` · `Microsoft Graph` · `MIT License`
+
+---
+
 ## 📚 Additional Work
 
 | Repository | Description | Stack | Visibility |
